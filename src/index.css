@@ -1,0 +1,75 @@
+
+
+
+
+/* form on contact page*/
+.form{
+  width: 54%;
+  height: 55%;
+  /* width: 63em;
+  height: 38em; */
+  float: left;
+  margin-left: 26em;
+  margin-top: 10em;
+  background-color: white;
+  border: solid;
+  border-color: #f9d6ed;
+}
+.form textarea{
+  height: 48%;
+  width: 55%;
+  color: #805B84;
+  margin-left: 13em;
+  margin-top: 2em;
+  border-color: #f9d6ed;
+}
+textarea:focus{
+  outline: 2px solid #6B6ECF;
+}
+.form input{
+  width: 20em;
+  height: 5%;
+  color: #805B84;
+  margin-left: 1em;
+  border-color: #f9d6ed;
+}
+input:focus{
+  outline: 2px solid #6B6ECF;
+}
+.form button{
+  margin-top: 1em;
+  margin-left: 20em;
+  margin-bottom: 1em;
+  background-color: white;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  color: #f9d6ed;
+  border: solid;
+  border-color: #f9d6ed;
+  border-width: thin;
+}
+button:focus{
+  outline: 1px solid #6B6ECF;
+  color: #6B6ECF;
+}
+
+.projects label{
+  margin-left: 12em;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  color: #f9d6ed;
+}
+
+
+
+.form a{
+  margin-left: 4.5em;
+  font-size: 30px;
+  display: inline;
+  color: #f9d6ed!important;
+}
+.form a:hover{
+  color: #1F1F3B!important;
+}
